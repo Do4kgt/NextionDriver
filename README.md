@@ -1,6 +1,7 @@
 # NextionDriver
 
 Send user data if found (Slot 1)
+
 users[user].data1 = t39
 
 users[user].data2 = t40
@@ -13,6 +14,7 @@ users[user].data5 = t43
 
 
 Send user data if found (Slot 2)
+
 users[user].data1 = t13
 
 users[user].data2 = t14
